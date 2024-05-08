@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "757099892711",
+    "project_id": "chatappre-b0c5d",
+    "storage_bucket": "chatappre-b0c5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757099892711:android:07c3260259c7fc621f3742",
+        "android_client_info": {
+          "package_name": "com.ahmetefeozenc.chatappre"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE5DueQr05W8Vq8Zmo08QwZsclb9PEuvo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
